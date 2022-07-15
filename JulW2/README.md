@@ -22,5 +22,10 @@ Player는 5 장의 패를 받는다 : 012345
 ## Rule
 큰 숫자가 강한 숫자보다 강하다.  
 단, 5는 2에게 2는 0에게 0은 5에게 패배한다.  
+  
+    
+      
+        
+          
 
 ![god_with_hina](https://user-images.githubusercontent.com/104818036/179164316-15de0c5d-80be-4525-a4b2-e08c43c37c7e.png)
